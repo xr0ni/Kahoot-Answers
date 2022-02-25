@@ -2,7 +2,7 @@
 Get a Kahoo Quiz's answers using this simple script.
 
 # How can I use it?
-Simply enter the Quiz's ID which is usually found at the top of the games URL.
+Simply enter the Quiz's ID which is usually found at the top of the game's URL.
 (Ex. 1f76d2dd-4353-4d9a-ab57-71ea9607d050)
 
 # Features
